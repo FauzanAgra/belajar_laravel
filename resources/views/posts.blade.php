@@ -3,7 +3,7 @@
 @extends('layouts.main')
 
 @section('container')
-    
+
     @foreach ($posts as $post)
 
     <article class="mb-2">
